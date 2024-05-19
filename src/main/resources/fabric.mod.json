@@ -1,0 +1,36 @@
+{
+  "schemaVersion": 1,
+  "id": "wiziplicity",
+  "version": "${version}",
+  "name": "Wiziplicity",
+  "description": "A mod making switching nicknames easier for pluralfolk.",
+  "authors": [
+    "Quinn Semele"
+  ],
+  "contact": {
+    "homepage": "https://modrinth.com/mod/wiziplicity/",
+    "sources": "https://github.com/quinn-semele/wiziplicity/"
+  },
+  "icon": "icon.png",
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      {
+        "adapter": "kotlin",
+        "value": "dev.compasses.wiziplicity.Wiziplicity"
+      }
+    ]
+  },
+  "mixins": [
+    "wiziplicity.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.15.11",
+    "minecraft": "~1.20.4",
+    "java": ">=21",
+    "fabric-api": "*"
+  },
+  "suggests": {
+    "modmenu": "*"
+  }
+}
