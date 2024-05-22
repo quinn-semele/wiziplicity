@@ -1,6 +1,6 @@
 # Project Initiation Document - Wiziplicity
 ## Preamble
-To start off I'd like to make it clear this will not be a perfect document, I, the sole developer, am the one who is planning and creating this project to suite my needs.
+To start off I'd like to make it clear this will not be a perfect document, I, the sole developer, am the one who is planning and creating this project to suit my needs.
 It will therefore be missing aspects that will otherwise be included such as a budget for the project, though a time budget for the minimum viable product as well as phases for polish and extra features will be established.
 
 This document will also be written from my perspective, whilst I can write it more formally I believe there is no benefit to me doing so.
