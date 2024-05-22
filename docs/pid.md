@@ -7,11 +7,11 @@ This document will also be written from my perspective, whilst I can write it mo
 
 Let's start with setting the scene to give people who are completely unaware of Minecraft and surrounding projects a basic understanding so that they too can navigate this document and be informed.
 
-- Minecraft: A very popular block based sandbox game where you can create almost anything your heart desires.
-- Essentials: A plugin for various modded Minecraft server frameworks including Paper, Spigot, and CraftBukkit. It provides many features but most notably to us, it provides a way for players to set a nickname using its own custom nickname format.
-- Styled Chat: A mod for the Fabric mod loader, like Essentials it allows users to set custom nicknames but in a format different to Essentials.
-- Paper / Spigot / CraftBukkit: These are solutions for server side minecraft mods, at their core they provide the same API that wraps over commonly used Minecraft hooks, for example: detecting and modifying messages players send in chat.
-- Fabric: Fabric consists of 2 major parts: the mod loader and the modding API. Both usually work in tandem to allow mod developers to write mods that work on the client and or the server and can modify the game however they wish.
+- **Minecraft**: A very popular block based sandbox game where you can create almost anything your heart desires.
+- **Essentials**: A plugin for various modded Minecraft server frameworks including Paper, Spigot, and CraftBukkit. It provides many features but most notably to us, it provides a way for players to set a nickname using its own custom nickname format.
+- **Styled Chat**: A mod for the Fabric mod loader, like Essentials it allows users to set custom nicknames but in a format different to Essentials.
+- **Paper** / **Spigot** / **CraftBukkit**: These are solutions for server side minecraft mods, at their core they provide the same API that wraps over commonly used Minecraft hooks, for example: detecting and modifying messages players send in chat.
+- **Fabric**: Fabric consists of 2 major parts: the mod loader and the modding API. Both usually work in tandem to allow mod developers to write mods that work on the client and or the server and can modify the game however they wish.
 
 ### Plurality
 This mod is being made with pluralfolk in mind if this concept is entirely new to you please check out some amazing external resources, and I'll try to do my best to provide a basic, limited definition to get through this document.
@@ -22,11 +22,11 @@ This mod is being made with pluralfolk in mind if this concept is entirely new t
 - [Plurality - Moderation Wiki](https://moderation.wiki/a/plurality)
 
 #### Basic Definitions
-- Pluralfolk / Plural System: A simple way to refer to bodies occupied by multiple people.
-- Plurality: The existence of multiple self-aware beings in one body.
-- Disassociation: A disconnect between a person's sense of self, memories, feelings, thoughts, and behaviour.
-- Headmate: An individual that exists within a plural system.
-- Fronting: When a certain person within a system has control of the body.
+- **Pluralfolk** / **Plural System**: A simple way to refer to bodies occupied by multiple people.
+- **Plurality**: The existence of multiple self-aware beings in one body.
+- **Disassociation**: A disconnect between a person's sense of self, memories, feelings, thoughts, and behaviour.
+- **Headmate**: An individual that exists within a plural system.
+- **Fronting**: When a certain person within a system has control of the body.
 
 ## Project Definition
 
