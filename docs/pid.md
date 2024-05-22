@@ -22,11 +22,11 @@ This mod is being made with pluralfolk in mind if this concept is entirely new t
 - [Plurality - Moderation Wiki](https://moderation.wiki/a/plurality)
 
 #### Basic Definitions
-- **Pluralfolk** / **Plural System**: A simple way to refer to bodies occupied by multiple people.
+- **Pluralfolk** / **Plural System**: A simple way to refer to bodies occupied by multiple self-aware beings.
 - **Plurality**: The existence of multiple self-aware beings in one body.
-- **Disassociation**: A disconnect between a person's sense of self, memories, feelings, thoughts, and behaviour.
+- **Disassociation**: A disconnect between an individual's sense of self, memories, feelings, thoughts, and behaviour.
 - **Headmate**: An individual that exists within a plural system.
-- **Fronting**: When a certain person within a system has control of the body.
+- **Fronting**: When a certain individual within a system has control of the body.
 
 ## Project Definition
 
